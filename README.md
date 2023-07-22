@@ -11,3 +11,5 @@ Set Goal
 You can literally use it on localhost
 # Updates
 I'll update this whenever im bored, if you have a cool feature make a new issue/pr
+# Screenshots
+![sshot](/screen.png)
